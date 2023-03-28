@@ -129,6 +129,6 @@ Download and install the **Cherry.apk** file from the link above.
 
 
 # Repositories
-[App](https://github.com/haZuny/GDSC-solution-challenge-cherry)
-[Server](https://github.com/Google-DSC-SCH/2023-cherry-SolutionChallenge-server)
-[ML](https://github.com/Google-DSC-SCH/2023-cherry-GDSCKRWinterCup-ML)
+[App](https://github.com/haZuny/GDSC-solution-challenge-cherry)<br>
+[Server](https://github.com/Google-DSC-SCH/2023-cherry-SolutionChallenge-server)<br>
+[ML](https://github.com/Google-DSC-SCH/2023-cherry-GDSCKRWinterCup-ML)<br>
