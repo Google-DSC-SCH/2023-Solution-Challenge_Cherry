@@ -23,7 +23,7 @@
 [**3. Components**](#Components)<br>
 [**4. Download App**](#Download-App)<br>
 [**5. Contributor**](#Contributor)<br>
-[**6. Repository**](#Repository)<br>
+[**6. Repository**](#Repositories)<br>
 
 <br>
 
