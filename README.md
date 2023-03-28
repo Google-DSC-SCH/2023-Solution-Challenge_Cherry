@@ -127,6 +127,7 @@ Download and install the **Cherry.apk** file from the link above.
 |Front End|Back End|Back End|Machine Learning|
 |[HaJun Kwon](https://github.com/haZuny)|[JiYoung Song](https://github.com/Zy0ung)|[GeonHui Lee](https://github.com/GeonHui2)|[JaeHyeon Park](https://github.com/Park-jaehyeon02)|
 
+<br>
 
 # Repositories
 [App](https://github.com/haZuny/GDSC-solution-challenge-cherry)<br>
