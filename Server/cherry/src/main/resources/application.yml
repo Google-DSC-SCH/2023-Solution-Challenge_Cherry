@@ -1,0 +1,37 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://3.37.75.80:3306/cherry
+    username: cherry
+    password: 20191531
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        format_sql: ture
+        dialect:
+  main:
+    allow-bean-definition-overriding: true
+
+  #security:
+  #  oauth2:
+  #    client:
+  #      registration:
+  #        google:
+  #          clientId: <GOOGLE_CLIENT_ID>
+  #          clientSecret: <GOOGLE_CLIENT_SECRET>
+  #          redirect-uri:  "{baseUrl}/oauth2/callback/{registrationId}"
+  #          scope:
+  #            - email
+  #            - profile
+logging:
+  level:
+    org.hibernate.sql: debug
+
+
+jwt:
+  secret: VlwEyVBsYt9V7zq57TejMnVUyzblYcfPQye08f7MGVA9XkHa
+
+google:
+  clientId: 452956723966-00n1usn3nhfnm4cj00eg162sodoe897b.apps.googleusercontent.com
