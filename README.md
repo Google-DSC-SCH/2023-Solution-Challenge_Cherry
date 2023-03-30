@@ -5,7 +5,7 @@
 
 [2023-GDSC-Solution-Challenge]<br>**Creating a safe working environment for construction site workers**
 
-[![Demo Video](http://img.youtube.com/vi/GbAMav8obpk/0.jpg)](https://youtu.be/GbAMav8obpk?t=0s)
+[![Demo Vider](http://img.youtube.com/vi/GbAMav8obpk/0.jpg)](https://youtu.be/GbAMav8obpk?t=0s)
 
 <br>
 
